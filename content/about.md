@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About Adam
 subtitle: ''
 img_path: images/about.jpg
 layout: page
