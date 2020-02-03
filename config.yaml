@@ -3,7 +3,7 @@ title: AdamBate.com
 baseURL: "/"
 params:
   layout_style: grid
-  palette: green
+  palette: blue
   header:
     title: Adam Bate
     logo_img: ''
